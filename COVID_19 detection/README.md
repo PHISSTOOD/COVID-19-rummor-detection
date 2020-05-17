@@ -12,7 +12,7 @@ BERT pakage:  You can download package from: https://github.com/google-research/
 
 ## How to run
 #### Get tweets:
-Replace the Twitter API credentials in "TwitterDumper.py", and run "getTweets.py" to get twiiter by specific key words.
+Replace the Twitter API credentials in "CrawlTwitter.py", and run "getTweets.py" to get twiiter by specific key words.
 #### Topic detection:
 Run analyze.py in "Topic detection" to classify tweets by topic: the input data is "all_tweets" in folder "data". It will create an output .csv for each topic.
 
